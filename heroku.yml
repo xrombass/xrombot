@@ -1,9 +1,0 @@
-build:
-
-  docker:
-
-    web:
-
-      dockerfile: cmd/api/Dockerfile
-
-      context: docker-compose
